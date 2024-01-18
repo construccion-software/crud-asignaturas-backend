@@ -14,4 +14,4 @@ router.delete('/', (req, res) => {
     metodo.deleteSubject(req, res);
 })
 
-module.exports = router;//
+module.exports = router;
