@@ -1,4 +1,9 @@
 {
+  "name":"crud-asignatura-backend",
+  "version":"1.0.0",
+  "description":"Something",
+  "main":"server.js",
+  "engines": {"node":"18.x"},
   "scripts":{
     "start": "nodemon server.js"
   },
